@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<testsuites failures="0" errors="0" tests="9">
+  <testsuite name="Root Suite" timestamp="2021-11-11T09:21:33" tests="0" file="cypress/integration/todomvc.actions.js" time="0.0000" failures="0"/>
+  <testsuite name="Active todos" timestamp="2021-11-11T09:21:33" tests="3" time="8.4020" failures="0">
+    <testcase name="Active todos should check the lists added" time="1.6800" classname="should check the lists added"/>
+    <testcase name="Active todos should check toggle button is working" time="1.2900" classname="should check toggle button is working"/>
+    <testcase name="Active todos should check the clear completed functionality" time="1.3110" classname="should check the clear completed functionality"/>
+  </testsuite>
+  <testsuite name="Root Suite" timestamp="2021-11-11T09:21:45" tests="0" file="cypress/integration/todomvc.filter.js" time="0.0000" failures="0"/>
+  <testsuite name="Filter actions for todos" timestamp="2021-11-11T09:21:45" tests="3" time="7.6860" failures="0">
+    <testcase name="Filter actions for todos should check active filter" time="1.6130" classname="should check active filter"/>
+    <testcase name="Filter actions for todos should check completed filter" time="1.4400" classname="should check completed filter"/>
+    <testcase name="Filter actions for todos should check the clear completed functionality" time="1.3570" classname="should check the clear completed functionality"/>
+  </testsuite>
+  <testsuite name="Root Suite" timestamp="2021-11-11T09:21:55" tests="0" file="cypress/integration/todomvc.spec.js" time="0.0000" failures="0"/>
+  <testsuite name="Active todos" timestamp="2021-11-11T09:21:55" tests="3" time="8.6440" failures="0">
+    <testcase name="Active todos should navigate to todomvc site" time="0.9140" classname="should navigate to todomvc site"/>
+    <testcase name="Active todos should add a todo list" time="0.4920" classname="should add a todo list"/>
+    <testcase name="Active todos doing validations in todo list" time="2.2830" classname="doing validations in todo list"/>
+  </testsuite>
+</testsuites>

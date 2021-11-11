@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="8.4320" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-11T09:21:33" tests="0" file="cypress/integration/todomvc.actions.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Active todos" timestamp="2021-11-11T09:21:33" tests="3" time="8.4020" failures="0">
+    <testcase name="Active todos should check the lists added" time="1.6800" classname="should check the lists added">
+    </testcase>
+    <testcase name="Active todos should check toggle button is working" time="1.2900" classname="should check toggle button is working">
+    </testcase>
+    <testcase name="Active todos should check the clear completed functionality" time="1.3110" classname="should check the clear completed functionality">
+    </testcase>
+  </testsuite>
+</testsuites>
